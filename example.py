@@ -15,7 +15,7 @@ def test_add():
 
 
 def subtract(a, b):
-    return a + b  # <--- fix this 
+    return a - b 
 
 
 # uncomment the following test
